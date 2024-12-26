@@ -33,13 +33,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Khalid-Mirza&layout=compact&theme=radical)
 
 #### Projects
-- [Project 1]([https://github.com/](https://github.com/Mohammed-Khalid-Mirza/lightSystemReact)) - light System Managment.
-- [Project 2]([https://github.com/](https://github.com/Mohammed-Khalid-Mirza/truestore)) -  True Store . https://truestore.org/
-- [Project 3]([https://github.com/](https://github.com/Shila52/SellersSaas)) - .
+- [Project 1](https://github.com/Mohammed-Khalid-Mirza/lightSystemReact) - Light System Management. A web app for managing and controlling lighting systems.
+- [Project 2](https://github.com/Mohammed-Khalid-Mirza/truestore) - True Store. An e-commerce platform with full support for inventory and customer management. [Website](https://truestore.org/)
+- [Project 3](https://github.com/Shila52/SellersSaas) - A SaaS platform for managing online sellers.
 
 #### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/mhamadkhalid)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/mhamadkhalid)
+
 
 <!-- Example animated SVG -->
 <img src="https://svgshare.com/i/JuH.svg" width="100" title="hover text">
