@@ -22,15 +22,13 @@
 #### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Khalid-Mirza&layout=compact&theme=radical)
 
+<div align="center"> <a href="https://github.com/Mohammed-Khalid-Mirza/project-1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Khalid-Mirza&repo=project-1&theme=react&hide_border=true" /> </a> <a href="https://github.com/Mohammed-Khalid-Mirza/project-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Khalid-Mirza&repo=project-2&theme=react&hide_border=true" /> </a> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Khalid-Mirza&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Mohammed Khalid Mirza's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Khalid-Mirza&hide_border=true&theme=react" alt="Mohammed Khalid Mirza's GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Khalid-Mirza&layout=compact&hide_border=true&theme=react" alt="Mohammed Khalid Mirza's Top Languages" /> </div>
+
 #### Projects
 - [Project 1](https://github.com/Mohammed-Khalid-Mirza/lightSystemReact) - Light System Management. A web app for managing and controlling lighting systems.
 - [Project 2](https://github.com/Mohammed-Khalid-Mirza/truestore) - True Store. An e-commerce platform with full support for inventory and customer management. [Website](https://truestore.org/)
 - [Project 3](https://github.com/Shila52/SellersSaas) - A SaaS platform for managing online sellers.
-
-#### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/mhamadkhalid)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/mhamadkhalid)
-
-
-<!-- Example animated SVG -->
-<img src="https://svgshare.com/i/JuH.svg" width="100" title="hover text">
+<div align="center"> <a href="https://github.com/Mohammed-Khalid-Mirza/fullstack-ecommerce"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Khalid-Mirza&repo=fullstack-ecommerce&theme=react&hide_border=true" /> </a> <a href="https://github.com/Mohammed-Khalid-Mirza/ai-chatbot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-Khalid-Mirza&repo=ai-chatbot&theme=react&hide_border=true" /> </a> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Khalid-Mirza&style=flat-square&color=blue" alt="Profile views" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Khalid-Mirza&theme=nord&column=7&no-frame=true" alt="trophy" /> </div> <h3 align="center">💖 Support My Work</h3> <p align="center"> <a href="https://www.buymeacoffee.com/mohammedkhalidmirza" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px"> </a> </p> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Let's+connect+and+collaborate!" alt="Typing SVG" /> </div>
