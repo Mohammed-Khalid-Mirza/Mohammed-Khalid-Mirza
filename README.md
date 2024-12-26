@@ -27,10 +27,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 #### GitHub Stats
-![mhamadKH1's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamadKH1&show_icons=true&theme=radical)
+![mhamadKH1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Khalid-Mirza&show_icons=true&theme=radical)
 
 #### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamadKH1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Khalid-Mirza&layout=compact&theme=radical)
 
 #### Projects
 - [Project 1]([https://github.com/](https://github.com/Mohammed-Khalid-Mirza/lightSystemReact)) - light System Managment.
