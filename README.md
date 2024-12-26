@@ -10,6 +10,8 @@
 - 📫 How to reach me: [mhamadkhalid484@gmail.com](mhamadkhalid484@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Mohammed+Khalid+Mirza;Fullstack+Web+Developer;Always+learning+new+things" alt="Typing SVG" /> </div> <h3 align="center">🚀 Passionate Fullstack Developer | Crafting Digital Experiences 🌐</h3> <p align="center"> <a href="https://linkedin.com/in/mohammed-khalid-mirza" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/MohammedKMirza" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://mohammedkhalidmirza.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> </p>
+
 #### Languages and Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
