@@ -5,7 +5,6 @@
 
 ## 🚀 recent Projects
 - [ Quran App](https://quran-kurdish.vercel.app/) – Full-featured offline Quran reader built with Next.js & PWA.
-- [ Todo List PWA](https://todolistoffline.vercel.app/) – A sleek offline-first todo app using React + IndexedDB , build for fun.
 
 
 ##
