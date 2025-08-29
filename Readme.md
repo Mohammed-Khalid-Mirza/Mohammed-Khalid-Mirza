@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-khalid-mirza&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-khalid-mirza" /> </p>
 
-## 🚀 recent Projects
-- [ Quran App](https://quran-kurdish.vercel.app/) – Full-featured offline Quran reader built with Next.js & PWA.
-
+<a href="https://app.daily.dev/mhamadkhalid"><img src="https://api.daily.dev/devcards/v2/jlVgIO3D1i08kAQDdi1nf.png?type=default&r=15o" width="356" alt="mhamad khalid's Dev Card"/></a>
 
 ##
 - 👯 I’m looking to collaborate on **open-source projects**
